@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Fundamentos\Interpolacao.cs~RF2466ff73.TMP" />
+    <None Remove="Fundamentos\PrimeiroPrograma.cs~RF1f3f1f15.TMP" />
+    <None Remove="Program.cs~RF1fab0a96.TMP" />
+  </ItemGroup>
+
+</Project>
